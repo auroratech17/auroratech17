@@ -1,4 +1,4 @@
-## Hi, there! I'm AuroraTech17
+## Hi, there! I'm ryzenforce
 
 <p align="center">
 <a href="https://github.com/auroratech17"> <img src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" /></a>
